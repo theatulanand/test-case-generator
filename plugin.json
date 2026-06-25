@@ -1,0 +1,6 @@
+{
+  "name": "test-case-generator",
+  "version": "1.0.0",
+  "description": "Generate manual QA test cases from git diffs or GitHub PRs",
+  "skills": ["skills/test-case.md"]
+}
